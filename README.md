@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/jpsantosss/jpsantosss/assets/125620461/988af602-80a6-441b-961a-03d599abc6e4)
 
-##About me
+## About me
 
 - 🧑‍💻 I’m currently learning POO, Java, Python and Front-end development
 
