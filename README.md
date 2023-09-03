@@ -7,8 +7,8 @@
 
 <details>
   
-  <summary>📄 GitHub Stats</summary>
-  <img align="left" alt="ixdarlan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jpsantosss&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <summary>📄 Most used languages</summary>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jpsantosss&layout=compact&langs_count=7&theme=tokyonight&hide=SCSS,HLSL,ShaderLab"/>
 
 </details> 
 <div align="center">
