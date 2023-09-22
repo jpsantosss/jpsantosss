@@ -10,7 +10,7 @@
   <summary>📄 Most used languages</summary>
   
   <a href="https://github.com/jpsantosss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsantosss&theme=dracula&hide_langs_below=1" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsantosss&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 
 </details> 
