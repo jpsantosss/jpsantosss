@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🧑‍💻 I’m currently learning POO, Java, Python and Front-end development
+- 🧑‍💻 I’m currently learning Front-end development and Java
 
 
 <details>
