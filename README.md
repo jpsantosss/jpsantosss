@@ -25,4 +25,5 @@
 
 <p>&nbsp;</p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpsantosss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jpsantosss" />
-<img align="right" width="23%" src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jpsantosss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img align="left" width="23%" src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif">
