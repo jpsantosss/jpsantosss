@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joao</h1>
-<img align="right" width="20%" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"></img>
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 <h3 align="left">Computer Science student with a strong interest in web and mobile development. I am proactive and always looking for new opportunities to learn and grow.</h3>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -18,6 +18,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/jpedrosantosoliv" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg" alt="jpedrosantosoliv" height="30" width="40" /></a>
 <a href="https://instagram.com/jpsxntosss" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/instagram.svg" alt="jpsxntosss" height="30" width="40" /></a>
+<h3 align="center">My portfolio: <a href="https://jpsantosss.github.io/html-portfolio/" target="blank">click here</a></h3>
 <p>&nbsp;</p>
 </p>
 
@@ -26,4 +27,3 @@
 <p>&nbsp;</p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpsantosss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jpsantosss" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jpsantosss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img align="left" width="23%" src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif">
