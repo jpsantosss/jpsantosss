@@ -17,7 +17,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jpedrosantosoliv" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg" alt="jpedrosantosoliv" height="30" width="40" /></a>
-<a href="https://instagram.com/jpsxntosss" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/instagram.svg" alt="jpsxntosss" height="30" width="40" /></a>
 <h3 align="center">My portfolio: <a href="https://jpsantosss.github.io/html-portfolio/" target="blank">click here</a></h3>
 <p>&nbsp;</p>
 </p>
@@ -25,5 +24,7 @@
 ---
 
 <p>&nbsp;</p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpsantosss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jpsantosss" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jpsantosss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpsantosss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jpsantosss" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpsantosss&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+</div>
