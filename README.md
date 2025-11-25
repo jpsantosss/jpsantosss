@@ -17,10 +17,10 @@ class aboutMe extends Developer {
 <p>&nbsp;</p>
 
 ## 💻 Languages and Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,java,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,dart)](https://skillicons.dev)
 
 ### 📚 Frameworks and libraries
-[![My Skills](https://skillicons.dev/icons?i=electron,react,flutter,django,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,flutter,django,sqlite)](https://skillicons.dev)
 
 ### 🛠️ Developing Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,notion,windows,vscode,github,git)](https://skillicons.dev)
