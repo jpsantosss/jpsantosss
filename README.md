@@ -1,74 +1,82 @@
-<h1 align="center">Hi 👋, I'm Joao</h1>
-<p>&nbsp;</p>
-<img align="right" width="26%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<p align="left">Computer Science student, currently focusing my studies on <strong>web</strong> and <strong>mobile development</strong>, with the goal of turning each learning experience into real-world projects throughout my journey.</p>
-<p align="left">I am proactive and constantly seeking new opportunities to learn and grow.</p>
-<p>&nbsp;</p>
+<h1 align="center">Hi, I'm João Pedro! 👋</h1>
 
-```js
-import Developer from "JP";
+<h3 align="center">Software Developer passionate about technology 🇧🇷</h3>
 
-class aboutMe extends Developer {
-  name = "João Pedro";
-  area = "Web and Mobile Developer";
-  local = "Rio de Janeiro";
-}
-```
-<p>&nbsp;</p>
-
-## 💻 Languages and Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,dart)](https://skillicons.dev)
-
-### 📚 Frameworks and libraries
-[![My Skills](https://skillicons.dev/icons?i=electron,flutter,django,sqlite)](https://skillicons.dev)
-
-### 🛠️ Developing Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,notion,windows,vscode,github,git)](https://skillicons.dev)
-
-<p>&nbsp;</p>
-
-<h3 align="center">Let's connect! Feel free to send me an email, follow me on LinkedIn, and check out my portfolio!</h3>
 <p align="center">
-	<a href="https://mail.google.com/mail/u/0/?fs=1&to=jpedrosantosoliv@gmail.com&tf=cm" target="blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-	<a href="https://linkedin.com/in/jpedrosantosoliv" target="blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-	<p align="center">My portfolio: <a href="https://jpsantosss.github.io/html-portfolio/" target="blank">click here</a>!</p>
-	<p>&nbsp;</p>
+	<a href="https://github.com/jpsantosss">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Web+Developer;Back-end+Developer+(Django)" alt="Typing SVG" />
+	</a>
 </p>
 
 ---
 
-### ⚙️ GitHub Analytics
+```js
+import Developer from 'brazil';
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=jpsantosss&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsantosss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jpsantosss&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+class AboutMe extends Developer {
+  constructor() {
+    super();
+    this.name = 'João Pedro';
+    this.role = 'Web & Mobile Developer';
+    this.location = 'Rio de Janeiro, Brazil';
+    this.education = 'B.S. in Computer Science';
+  }
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpsantosss&theme=xcode)](https://github.com/jpsantosss/github-readme-activity-graph)
+  getCurrentFocus() {
+    return [
+      'Deepening my knowledge in Django',
+      'Exploring Electron',
+      'Applying Semantic Versioning best practices'
+    ];
+  }
+
+  getHobbies() {
+    return [
+      'Writing codes',
+      'Fixing bugs',
+      'Playing Counter Strike',
+      'Relaxing and exploring the whole world',
+    ];
+  }
+}
+```
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-%235849be.svg?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jpsantosss.jpsantosssv&left_color=dark&right_color=gray" width="80" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsantosss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsantosss&layout=compact&theme=dracula"/>
 </div>
+
+---
+
+### 📫 How to reach me
+
+<p align="center">
+  <a href="mailto:jpedrosantosoliv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jpedrosantosoliv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:808080,100:000&section=footer&reversal=false" alt="Capsule Render" />
