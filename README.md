@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/jpsantosss">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Web+Developer;Back-end+Developer+(Django)" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Coding..." alt="Typing SVG" />
 	</a>
 </p>
 
@@ -75,8 +75,9 @@ class AboutMe extends Developer {
 ### 📫 How to reach me
 
 <p align="center">
-  <a href="mailto:jpedrosantosoliv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jpedrosantosoliv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jpedrosantosoliv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jpsantosss.github.io/html-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:808080,100:000&section=footer&reversal=false" alt="Capsule Render" />
