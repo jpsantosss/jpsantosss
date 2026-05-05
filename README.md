@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm João Pedro! 👋</h1>
 
-<h3 align="center">Software Developer passionate about technology 🇧🇷</h3>
+<h3 align="center">Software Developer 🇧🇷</h3>
 
 <p align="center">
 	<a href="https://github.com/jpsantosss">
